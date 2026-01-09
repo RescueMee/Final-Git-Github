@@ -1,0 +1,10 @@
+Hi, This is the test file to see the git and github.
+
+The topics covered here are:
+1. How the git and github works 
+2. How to push 
+3. How to sync github in vs code/ in our local folder
+
+
+for now this is all!
+
