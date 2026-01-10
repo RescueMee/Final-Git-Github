@@ -19,3 +19,8 @@ I have chagnes this file in my system will create a PR for it and see if it work
 
 -----------------------------------------------------------------------------------------------
 
+
+Making the chnages by cloing the repo in another folder.
+
+
+I will create a another branch and then create a PR to merge into the main code.
